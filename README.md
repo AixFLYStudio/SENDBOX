@@ -69,3 +69,5 @@ If you encounter any issues or need help:
 
 ---
 *Developed by Aixfly Studio*
+
+Copyright © 2026 Aixfly Studio. All rights reserved.
